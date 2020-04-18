@@ -30,6 +30,10 @@ a {
   
 }
 
+.heder-left {
+  float:left;
+}
+
 .top-wrapper p {
   opacity: 0.7;
   font-size: 16px;
