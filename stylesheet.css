@@ -34,7 +34,7 @@ body {
   float:left;
 }
 
-.heder-right{
+.header-right p{
   float:right;
   padding:10px
   font-size:20px;
