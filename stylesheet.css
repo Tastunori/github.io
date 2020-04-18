@@ -14,9 +14,6 @@ body {
   margin: 0 auto;
 }
 
-.main_content{
-  margin:10px;
-}
 
 .top-wrapper {
   background-size: cover;
@@ -44,11 +41,7 @@ body {
   
 }
 
-.header-right p{
-  padding: 10px;
-  font-size: 40px;
-  margin: 10px; 
-}
+
 
 .top-wrapper p {
   opacity: 0.7;
