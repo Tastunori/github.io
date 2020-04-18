@@ -26,6 +26,9 @@ body {
   font-size: 45px;
 }
 
+.profile {
+  width:50%;
+}
 
 .heder-left {
   float:left;
