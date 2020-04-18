@@ -38,7 +38,8 @@ body {
   float:left;
 }
 
-.header-right p{
+.header-right li{
+  list-style: none;
   padding:10px;
   font-size: 30px;
   margin-left:10px
