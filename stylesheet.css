@@ -41,12 +41,14 @@ body {
 
 .header-right li{
   list-style: none;
-  padding: 10px;
-  font-size: 30px;
-  margin: 10px; 
   
 }
 
+.header-right p{
+  padding: 10px;
+  font-size: 30px;
+  margin: 10px; 
+}
 
 .top-wrapper p {
   opacity: 0.7;
