@@ -40,6 +40,11 @@ body {
 
 .header-right li{
   list-style: none;
+  
+}
+
+.header-right{
+  
   padding:10px;
   font-size: 30px;
   margin-left:10px
